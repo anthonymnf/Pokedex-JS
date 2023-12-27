@@ -2,9 +2,9 @@
 
 Este projeto foi feito para testar e aprimorar meu conhecimentos com o uso de API's 
 
-## Landing Page
+## Pokedex
 
-Link para a Pokedex: [https://anthonymnf.github.io/Pokedex-JS/](https://anthonymnf.github.io/Pokedex-JS/)
+Link para a Pokedex: https://anthonymnf.github.io/Pokedex-JS/
 
 
 ## Veja como ficou: 
